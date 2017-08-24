@@ -19,6 +19,8 @@ Fifth column: headlines.
 
 If you would like to cite the present database, please refer to the database "Manchetes Brasil", by Paula Dornhofer Paro Costa (Costa, P.D.P.), 2017.
 
-I am interested on Sentiment Analysis. If you would like to exchange some ideas, please feel free to contact me.
+I have created this database for the Affective Computing course offered at the University of Campinas. The database is going to be used on Sentiment Analysis activities. 
+
+If you would like to exchange some ideas, please feel free to contact me.
 
 Have a nice journey!
