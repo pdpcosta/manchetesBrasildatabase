@@ -1,5 +1,5 @@
 # manchetesBrasildatabase
-Database of 500 headlines of Brazilian newspapers, on specific dates from December, 2016 to August, 2017.
+Database of 500 headlines from Brazilian newspapers, on specific dates from December, 2016 to August, 2017.
 
 File Format: CSV with comma separating fields and text fields surrounded by ' character.
 
